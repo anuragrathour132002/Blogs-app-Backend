@@ -2,7 +2,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone 'https://github.com/anuragrathour132002/Blogs-app-Frontend'
+   git clone 'https://github.com/anuragrathour132002/Blogs-app-Backend'
    cd backend
    ```
 
