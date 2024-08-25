@@ -16,7 +16,7 @@ require('./models/config');
 
 // CORS configuration
 const corsOptions = {
-    origin: ['http://localhost:3000'],
+    origin: ['http://localhost:3000', 'https://blogs-app-backend-r519.onrender.com', 'https://blogs-app-zupay.vercel.app/'],
     credentials: true
 };
 
